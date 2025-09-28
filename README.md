@@ -44,8 +44,8 @@ El objetivo fue diseñar y programar un sistema bare-metal en lenguaje C para mi
 
 ## Documentación
 
-- En la rama `main` el proyecto completo para ejecutar en STM32CubeIDE
-- En la rama `docs`archivos de planificación e ITEMIS Create
+- En la carpeta `project` el proyecto completo para ejecutar en STM32CubeIDE
+- En la carpeta `docs` archivos de planificación e ITEMIS Create
 
 
 ---
